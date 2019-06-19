@@ -1,5 +1,5 @@
-#Git Commands
-___
+Git Commands
+============
 
 
 ### Getting & Creating Projects
